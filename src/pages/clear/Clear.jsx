@@ -3,7 +3,9 @@ import React from 'react'
 
 const Clear = () => {
     return(
-        <div></div>
+        <div className='point-line-mini'>
+            <img src={`/point-line-mini.svg`} alt="Map" />
+        </div>
     );
 };
 

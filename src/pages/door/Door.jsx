@@ -3,8 +3,7 @@ import React from 'react';
 
 const Door = () => {
     return (
-        <div>
-            
+        <div className='point-line'>
             <img src={`/point-line.svg`} alt="Map" />
         </div>
     );
