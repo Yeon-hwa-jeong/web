@@ -1,12 +1,13 @@
-import './Map.css';
+import './Door.css';
 import React from 'react';
 
-const Map = () => {
+const Door = () => {
     return (
         <div>
+            
             <img src={`/point-line.svg`} alt="Map" />
         </div>
     );
 };
 
-export default Map;
+export default  Door;

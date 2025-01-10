@@ -5,7 +5,7 @@ import Footer from "./components/Footer/Footer";
 
 import Box from "./pages/box/Box";
 import Clear from "./pages/clear/Clear";
-import Map from "./pages/map/Map";
+import Door from "./pages/door/Door";
 import Recycle from "./pages/recycle/Recycle";
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
 
         <Route path="/box" element={<Box />} />
         <Route path="/clear" element={<Clear />} />
-        <Route path="/map" element={<Map />} />
+        <Route path="/door" element={<Door />} />
         <Route path="/recycle" element={<Recycle />} />
       </Routes>
       <Footer />
