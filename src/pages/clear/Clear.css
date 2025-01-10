@@ -1,11 +1,26 @@
 .point-line-mini {
     position: fixed;
-    top: 38px;
+    top: 47px;
     left: 0;
     right: 0;
     align-items: center;
     width: 360px;
     height: 5px;
     margin: 0 auto;
+    z-index: 1000;
+}
+
+.clear-1 {
+    position: relative;
+    top: 66px;
+    margin: 0 auto;
+    display: block;
+}
+
+.clear-2 {
+    position: relative;
+    top: 50px;
+    margin: 0 auto;
+    display: block;
     z-index: 1000;
 }
