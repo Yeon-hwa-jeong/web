@@ -8,3 +8,17 @@
     margin: 0 auto;
     z-index: 1000;
 }
+
+.shouthing-list {
+    position: relative;
+    top: 86px;
+    margin: 0 auto;
+    display: block;
+}
+
+.yeon {
+    position: fixed;
+    bottom: 66px;
+    margin: 0 auto;
+    display: block;
+}

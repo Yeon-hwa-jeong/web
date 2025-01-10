@@ -8,3 +8,10 @@
     margin: 0 auto;
     z-index: 1000;
 }
+
+.imsi-map {
+    position: relative;
+    top: 86px;
+    margin: 0 auto;
+    display: block;
+}
